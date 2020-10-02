@@ -1,0 +1,13 @@
+cxiao\fudan\edu\cn\service\AccountService.class
+cxiao\sh\cn\security\BasicSecurityConext$1.class
+cxiao\sh\cn\Server.class
+cxiao\sh\cn\config\JerseyConfig.class
+cxiao\sh\cn\entity\Book.class
+cxiao\sh\cn\entity\Booktype.class
+cxiao\sh\cn\entity\StuRepository.class
+cxiao\sh\cn\resource\StudentResource.class
+cxiao\sh\cn\security\BasicSecurityConext.class
+cxiao\sh\cn\entity\Sex.class
+cxiao\sh\cn\resource\FileResource.class
+cxiao\sh\cn\filter\UserAuthFilter.class
+cxiao\sh\cn\entity\Student.class

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/bio/pom.xml" />
+        <option value="$PROJECT_DIR$/nio/pom.xml" />
+        <option value="$PROJECT_DIR$/aio/pom.xml" />
+        <option value="$PROJECT_DIR$/netty/pom.xml" />
+        <option value="$PROJECT_DIR$/JerseyServer5/pom.xml" />
+        <option value="$PROJECT_DIR$/JerseyClient5/pom.xml" />
+        <option value="$PROJECT_DIR$/JerseyClient6/pom.xml" />
+        <option value="$PROJECT_DIR$/JerseyServer6/pom.xml" />
+        <option value="$PROJECT_DIR$/JerseyClient7/pom.xml" />
+        <option value="$PROJECT_DIR$/JerseyServer7/pom.xml" />
+        <option value="$PROJECT_DIR$/JerseyClient8/pom.xml" />
+        <option value="$PROJECT_DIR$/JerseyServer8/pom.xml" />
+        <option value="$PROJECT_DIR$/JerseyClient9/pom.xml" />
+        <option value="$PROJECT_DIR$/JerseyServer9/pom.xml" />
+        <option value="$PROJECT_DIR$/JerseyServer9a/pom.xml" />
+        <option value="$PROJECT_DIR$/DistributedLockClient/pom.xml" />
+        <option value="$PROJECT_DIR$/DistributedLockServer/pom.xml" />
+        <option value="$PROJECT_DIR$/websocket/pom.xml" />
+        <option value="$PROJECT_DIR$/RpcServer/pom.xml" />
+        <option value="$PROJECT_DIR$/RpcClient/pom.xml" />
+        <option value="$PROJECT_DIR$/SendMail/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="false" project-jdk-name="JDK-11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

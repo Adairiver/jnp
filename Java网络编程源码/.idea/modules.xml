@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DistributedLockClient/DistributedLockClient.iml" filepath="$PROJECT_DIR$/DistributedLockClient/DistributedLockClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DistributedLockServer/DistributedLockServer.iml" filepath="$PROJECT_DIR$/DistributedLockServer/DistributedLockServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JerseyClient5/JerseyClient5.iml" filepath="$PROJECT_DIR$/JerseyClient5/JerseyClient5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JerseyClient6/JerseyClient6.iml" filepath="$PROJECT_DIR$/JerseyClient6/JerseyClient6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JerseyClient7/JerseyClient7.iml" filepath="$PROJECT_DIR$/JerseyClient7/JerseyClient7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JerseyClient8/JerseyClient8.iml" filepath="$PROJECT_DIR$/JerseyClient8/JerseyClient8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JerseyClient9/JerseyClient9.iml" filepath="$PROJECT_DIR$/JerseyClient9/JerseyClient9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JerseyServer5/JerseyServer5.iml" filepath="$PROJECT_DIR$/JerseyServer5/JerseyServer5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JerseyServer6/JerseyServer6.iml" filepath="$PROJECT_DIR$/JerseyServer6/JerseyServer6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JerseyServer7/JerseyServer7.iml" filepath="$PROJECT_DIR$/JerseyServer7/JerseyServer7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JerseyServer8/JerseyServer8.iml" filepath="$PROJECT_DIR$/JerseyServer8/JerseyServer8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JerseyServer9/JerseyServer9.iml" filepath="$PROJECT_DIR$/JerseyServer9/JerseyServer9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JerseyServer9a/JerseyServer9a.iml" filepath="$PROJECT_DIR$/JerseyServer9a/JerseyServer9a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RpcClient/RpcClient.iml" filepath="$PROJECT_DIR$/RpcClient/RpcClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RpcServer/RpcServer.iml" filepath="$PROJECT_DIR$/RpcServer/RpcServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SendMail/SendMail.iml" filepath="$PROJECT_DIR$/SendMail/SendMail.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aio/aio.iml" filepath="$PROJECT_DIR$/aio/aio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bio/bio.iml" filepath="$PROJECT_DIR$/bio/bio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty/netty.iml" filepath="$PROJECT_DIR$/netty/netty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nio/nio.iml" filepath="$PROJECT_DIR$/nio/nio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/websocket/websocket.iml" filepath="$PROJECT_DIR$/websocket/websocket.iml" />
+    </modules>
+  </component>
+</project>

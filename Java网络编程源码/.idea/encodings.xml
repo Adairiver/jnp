@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/DistributedLockClient" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DistributedLockServer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JerseyClient1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JerseyClient2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JerseyClient3" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JerseyClient4" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JerseyClient5" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JerseyClient6" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JerseyClient7" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JerseyClient8" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JerseyClient9" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JerseyServer1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JerseyServer2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JerseyServer3" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JerseyServer4" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JerseyServer5" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JerseyServer6" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JerseyServer7" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JerseyServer8" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JerseyServer9" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JerseyServer9a" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RpcClient" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RpcServer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SendMail" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aio" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bio" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/netty" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nio" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/websocket" charset="UTF-8" />
+  </component>
+</project>

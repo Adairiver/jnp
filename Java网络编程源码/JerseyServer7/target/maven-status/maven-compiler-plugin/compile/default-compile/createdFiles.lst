@@ -1,0 +1,8 @@
+cxiao\sh\cn\entity\Sex.class
+cxiao\sh\cn\Server.class
+cxiao\sh\cn\config\JerseyConfig.class
+cxiao\sh\cn\entity\Book.class
+cxiao\sh\cn\entity\Booktype.class
+cxiao\sh\cn\entity\StuRepository.class
+cxiao\sh\cn\entity\Student.class
+cxiao\sh\cn\resource\SseSubPubResource.class

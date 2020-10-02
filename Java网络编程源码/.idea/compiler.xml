@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="JerseyServer9a" />
+        <module name="JerseyServer9" />
+        <module name="JerseyServer8" />
+        <module name="JerseyServer7" />
+        <module name="DistributedLockServer" />
+        <module name="SendMail" />
+        <module name="netty" />
+        <module name="RpcClient" />
+        <module name="nio" />
+        <module name="JerseyClient7" />
+        <module name="JerseyClient9" />
+        <module name="aio" />
+        <module name="bio" />
+        <module name="JerseyServer5" />
+        <module name="websocket" />
+        <module name="RpcServer" />
+        <module name="DistributedLockClient" />
+        <module name="JerseyClient8" />
+        <module name="JerseyServer6" />
+        <module name="JerseyClient6" />
+        <module name="JerseyClient5" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="aio" target="11" />
+      <module name="bio" target="11" />
+      <module name="DistributedLockClient" target="11" />
+      <module name="DistributedLockServer" target="11" />
+      <module name="JerseyClient1" target="11" />
+      <module name="JerseyClient2" target="11" />
+      <module name="JerseyClient3" target="11" />
+      <module name="JerseyClient4" target="11" />
+      <module name="JerseyClient5" target="11" />
+      <module name="JerseyClient6" target="11" />
+      <module name="JerseyClient7" target="11" />
+      <module name="JerseyClient8" target="11" />
+      <module name="JerseyClient9" target="11" />
+      <module name="JerseyServer1" target="11" />
+      <module name="JerseyServer2" target="11" />
+      <module name="JerseyServer3" target="11" />
+      <module name="JerseyServer4" target="11" />
+      <module name="JerseyServer5" target="11" />
+      <module name="JerseyServer6" target="11" />
+      <module name="JerseyServer7" target="11" />
+      <module name="JerseyServer8" target="11" />
+      <module name="JerseyServer9" target="11" />
+      <module name="JerseyServer9a" target="11" />
+      <module name="netty" target="11" />
+      <module name="nio" target="11" />
+      <module name="RpcClient" target="11" />
+      <module name="RpcServer" target="11" />
+      <module name="SendMail" target="11" />
+      <module name="websocket" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

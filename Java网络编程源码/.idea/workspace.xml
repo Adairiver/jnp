@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="53378fa6-3ec8-4684-9f5e-cc08f37583b0" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven3.6.1\Repository" />
+        <option name="mavenHome" value="D:/maven3.6.1" />
+        <option name="userSettingsFile" value="D:\maven3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gI6N7HX5AncqBdnIF97wqB0LOn" />
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="cxiao.sh.cn" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cxiao.sh.cn.server" />
+      <recent name="cxiao.sh.cn.client" />
+      <recent name="cxiao.sh.cn.lock" />
+      <recent name="cxiao.sh.cn.common.protocol" />
+      <recent name="cxiao.sh.cn.common.util" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\循序渐进Java网络编程源码\Java网络编程源码\RpcClient\src\main\resources" />
+      <recent name="D:\循序渐进Java网络编程源码\Java网络编程源码\RpcServer\src\main\resources" />
+      <recent name="D:\循序渐进Java网络编程源码\Java网络编程源码\RpcClient\src\main\java\cxiao\sh\cn\common\entity" />
+      <recent name="D:\循序渐进Java网络编程源码\Java网络编程源码\RpcServer\src\main\java\cxiao\sh\cn\common" />
+      <recent name="D:\循序渐进Java网络编程源码\Java网络编程源码\RpcClient\src\main\java\cxiao\sh\cn" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Consumer">
+    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cxiao.sh.cn.Client" />
+      <module name="JerseyClient5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cxiao.sh.cn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cxiao.sh.cn.Client" />
+      <module name="JerseyClient6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cxiao.sh.cn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Consumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cxiao.sh.cn.consumer.Consumer" />
+      <module name="RpcClient" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cxiao.sh.cn.consumer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Provider" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cxiao.sh.cn.provider.Provider" />
+      <module name="RpcServer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cxiao.sh.cn.provider.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="JerseyServer6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cxiao.sh.cn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cxiao.sh.cn.Server" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Consumer" />
+        <item itemvalue="Application.Provider" />
+        <item itemvalue="Application.Client (1)" />
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Spring Boot.Server" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="53378fa6-3ec8-4684-9f5e-cc08f37583b0" name="Default Changelist" comment="" />
+      <created>1597789716922</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597789716922</updated>
+      <workItem from="1597789718359" duration="13137000" />
+      <workItem from="1597878418600" duration="10896000" />
+      <workItem from="1597916858768" duration="16194000" />
+      <workItem from="1597935197861" duration="705000" />
+      <workItem from="1597968920930" duration="21734000" />
+      <workItem from="1598008660497" duration="1265000" />
+      <workItem from="1598011127427" duration="5833000" />
+      <workItem from="1598048643706" duration="12701000" />
+      <workItem from="1598072750407" duration="8509000" />
+      <workItem from="1598090595161" duration="12252000" />
+      <workItem from="1598132086874" duration="3475000" />
+      <workItem from="1598180338217" duration="14094000" />
+      <workItem from="1598228031839" duration="480000" />
+      <workItem from="1598228538279" duration="36908000" />
+      <workItem from="1598309962700" duration="26187000" />
+      <workItem from="1598352773205" duration="13557000" />
+      <workItem from="1598398499835" duration="20896000" />
+      <workItem from="1598423890468" duration="22129000" />
+      <workItem from="1598489221522" duration="21190000" />
+      <workItem from="1598524624563" duration="13496000" />
+      <workItem from="1598566257402" duration="20286000" />
+      <workItem from="1598595265827" duration="21527000" />
+      <workItem from="1598654330226" duration="8743000" />
+      <workItem from="1598666838064" duration="13694000" />
+      <workItem from="1598698664639" duration="19943000" />
+      <workItem from="1598718637506" duration="157000" />
+      <workItem from="1598728230726" duration="5381000" />
+      <workItem from="1598733964589" duration="6966000" />
+      <workItem from="1598742151144" duration="262000" />
+      <workItem from="1598780467863" duration="7136000" />
+      <workItem from="1598832558022" duration="10441000" />
+      <workItem from="1598873012647" duration="8629000" />
+      <workItem from="1598912890582" duration="23583000" />
+      <workItem from="1598955531470" duration="10949000" />
+      <workItem from="1598970062760" duration="49000" />
+      <workItem from="1599006619673" duration="14713000" />
+      <workItem from="1599043831961" duration="5924000" />
+      <workItem from="1599052225475" duration="260000" />
+      <workItem from="1599089252526" duration="19141000" />
+      <workItem from="1599128775833" duration="13551000" />
+      <workItem from="1599173845704" duration="19617000" />
+      <workItem from="1599207630010" duration="7054000" />
+      <workItem from="1599221383600" duration="127000" />
+      <workItem from="1599260972377" duration="12350000" />
+      <workItem from="1599301460131" duration="14126000" />
+      <workItem from="1599348247877" duration="13760000" />
+      <workItem from="1599389359927" duration="16051000" />
+      <workItem from="1599431557304" duration="18537000" />
+      <workItem from="1599455644760" duration="5037000" />
+      <workItem from="1599473876524" duration="15029000" />
+      <workItem from="1599520589900" duration="26384000" />
+      <workItem from="1599561269127" duration="15624000" />
+      <workItem from="1599603979129" duration="13541000" />
+      <workItem from="1599627261842" duration="7001000" />
+      <workItem from="1599642936204" duration="11627000" />
+      <workItem from="1599660325246" duration="330000" />
+      <workItem from="1599689599567" duration="45167000" />
+      <workItem from="1599833343204" duration="102000" />
+      <workItem from="1599909472547" duration="1513000" />
+      <workItem from="1599999231808" duration="7000" />
+      <workItem from="1600386154848" duration="6315000" />
+      <workItem from="1600479171477" duration="3645000" />
+      <workItem from="1600494825369" duration="1321000" />
+      <workItem from="1600581870847" duration="157000" />
+      <workItem from="1600595272884" duration="1863000" />
+      <workItem from="1600688195031" duration="3258000" />
+      <workItem from="1600729648902" duration="3538000" />
+      <workItem from="1600768172226" duration="3164000" />
+      <workItem from="1600817751636" duration="1623000" />
+      <workItem from="1600819561106" duration="10227000" />
+      <workItem from="1600842185893" duration="85000" />
+      <workItem from="1600842343714" duration="46000" />
+      <workItem from="1600948665993" duration="47000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
